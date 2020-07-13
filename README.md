@@ -1,4 +1,4 @@
-# Multiple Video streaming using kafka and python
+# Distributed Video streaming using kafka and python
 Simple project to stream video using kafka and python. Check this [link](https://medium.com/@kevin.michael.horan/distributed-video-streaming-with-python-and-kafka-551de69fe1dd) for more details.
 
 ## Installing Docker and Docker compose
